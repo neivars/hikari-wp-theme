@@ -1,0 +1,6 @@
+# VSCode Config
+.vscode
+
+# Ignore PHP Codesniffer and WordPress Standard files
+phpcs
+wpcs
