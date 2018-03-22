@@ -10,9 +10,5 @@ License URI: LICENSE
 Text Domain: hikari
 Tags: 
 */
-.landing {
-  height: 100vh; }
-  .landing h1 {
-    font-family: 'Permanent Marker', cursive; }
 
-/*# sourceMappingURL=style.css.map */
+@import 'landing.scss';

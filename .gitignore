@@ -4,3 +4,6 @@
 # Ignore PHP Codesniffer and WordPress Standard files
 phpcs
 wpcs
+
+# Ignore Sass cache
+.sass-cache
